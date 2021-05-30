@@ -1,0 +1,223 @@
+en_us({
+	"basicInfo": {
+		"name": "Zhu Songwang ♂ male",
+		"title": "☆ JAVA Development☆ Systems Architect ",
+		"profileInfo": "I have a unique interest in science, physics, mathematics and other subjects since childhood. I began to contact computers in high school and started my computer learning career. I chose software engineering major in University. In 2019, we will focus on the development and research of Java. I am diligent, careful, full of work responsibility, like to communicate with people. Good at thinking, learning, understanding and adaptability. Like outdoor mountain climbing, reading, swimming (although not very good). With solid professional foundation, rich project practice experience, quick thinking and quick response, excellent learning adaptability, and the carefulness and patience required for software development. I always firmly believe that only pay, there is harvest, heaven rewards hard work, want to succeed, you have to be down-to-earth, work harder than others.",
+		"email": "1947838910@qq.com",
+		"mobile": "13020347025",
+		"website": "https://www.zhusw.top/",
+		"webName": "Personal blog",
+		"authorTitle": "Author",
+		"authorValue": "Zhu Songwang"
+	},
+	
+	"projects": {
+		"navTitle": "Projects",
+		"sectionTitle": "Projects",
+		"projectEnv": "environment",
+		"projectDesc": "Project Description",
+		"responsibilityDesc": "Responsibility",
+		"projectExperiences": [{
+			"name": "Huihua customer relationship management system",
+			"location": "Liaoning",
+			"title": "System architect",
+			"industry": "internet",
+			"time": "2020.3—2021.4",	
+			"env": "SpringBoot+Mybatis+Mysql+SpringMvc+LayUI",	
+			"desc": "Customers are the most valuable resources of the company. In order to better explore the value of old customers and develop more new customers, Huihua company decided to implement customer relationship management system. Through this system, we hope to fully share and standardize the basic customer information, contact information, communication information and customer service information; We hope to improve the development ability of new customers by tracking and recording the development process of potential customers and customers; We hope that when the customer is about to lose, the system will give early warning in time, so that the sales staff can take timely measures to reduce the loss. And hope the system can provide relevant reports, so that the company's top management can know the company's customer situation at any time.",
+			"responsibility": "participated in the design of data table of customer management system, the function realization of basic module and authority management module."
+		}, {
+			"name": "Employee attendance system",
+			"location": "Liaoning",
+			"title": "System architect",
+			"industry": "Development platform / E-Commerce",
+			"time": "2019.1—2020.3",
+			"env": "IDEA + HTML5 + Spring MVC + Spring + Mybatis + Dubbo + Maven",	
+			"desc": "Employee attendance system is mainly used to record the daily attendance of employees, including: normal attendance, leave, business trip, overtime, continuous shift, scheduling, data processing, etc. This system is also suitable for the management of attendance of students in Colleges and universities. System modules are as follows: data dictionary, daily management, query statistics, card management module, reports, system maintenance",
+			"responsibility": "My main functions are as follows: A. data dictionary: identity, nationality, punch in rules, leave system, certificate, shift, team, shift system setting. b. Staff scheduling in daily management. c. Query statistics: card record query, travel query, leave query, overtime attendance query, shift change query, manual attendance query, employee attendance query. d. Card account management module: open an account, cancel an account, report loss, cancel a card, change a card, etc. The main technologies used in the project: (1) based on the J2EE platform, B / S mode, the application of Spring + struts + Hibernate technology, using MVC three-tier model development (2) staff scheduling using Ajax technology, to achieve no refresh page, at the same time, this is the most complex module of the system."
+		}]
+	},
+	"education": {
+		"navTitle": "Education",
+		"sectionTitle": "Education",
+		"educations": [{
+			"educationBody": "Liaoning Petrochemical University",
+			"degree": "College/Bachelor",
+			"time": "2018 - 2022",
+			"desc": "Studied in Liaoning Petrochemical University, College of computer and communication engineering, Department of software engineering, bachelor degree.",
+			"url": "http://www.lnpu.edu.cn/"
+		}, {
+			"educationBody": "Anhui Fengyang middle school",
+			"degree": "senior high school student",
+			"time": "2015 - 2018",
+			"desc": "Studied in Anhui Fengyang middle school, spent three years of high school learning career, successfully completed related studies.",
+			"url": "http://www.jingshangbao.cn/sxin2994/introduce/"
+		}, {
+			"educationBody": "Anhui Banqiao middle school",
+			"degree": "middle school student",
+			"time": "2012 - 2015",
+			"desc": "Studied in Anhui Banqiao middle school, spent 3 years of middle school learning career, successfully completed the relevant studies.",
+			"url": "https://www.11467.com/chuzhou/co/10231.htm"
+		}]
+	},
+	"skills": {
+		"navTitle": "Skills",
+		"sectionTitle": "Professional Skills",
+		"topSkills": [{
+			"name": "Java",
+			"percent": "90",
+			"level": "Expert, 2+ years",
+			"time": "2016 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring Boot",
+			"percent": "58",
+			"level": "understand, 1+ years",
+			"time": "2020 - Present",
+			"desc": "desc here."
+		}, {
+			"name": "Spring MVC",
+			"percent": "70",
+			"level": "understand, 1+ years",
+			"time": "2020 - Present",
+			"desc": "desc here."
+		}],
+		"otherSkills": [{
+			"name": "HTML5"
+		}, {
+			"name": "CSS3"
+		}],
+		"skillItems": [{
+			"name": "☆ Java has a solid foundation, has a deep understanding of object-oriented programming, understands and can use Java IO stream, collection, multithreading and thread pool, and has good programming habits"
+		}, {
+			"name": "☆ Good at Java language, understand java memory model, JVM performance tuning"
+		}, {
+			"name": "☆ Familiar with the daily use of MySQL database, master the common optimization means"
+		}, {
+			"name": "☆ Familiar with eclipse / idea and other development tools."
+		}, {
+			"name": "☆ Skillfully use git, Maven and other project management tools"
+		}, {
+			"name": "☆ Familiar with git, Maven and other project management tools, familiar with basic data structure and algorithm, familiar with computer network knowledge, familiar with common design patterns such as singleton pattern, factory pattern, etc"
+		}, {
+			"name": "☆ Deeply understand spring IOC and AOP principles, mybatis, JPA and other persistence principles, Tomcat server principles."
+		}, {
+			"name": "☆ Master UML unified modeling language, understand common software development mode, good at agile development mode, familiar with the use of common commands in Linux environment."
+		}, {
+			"name": "☆ Understand the foreground development, master the use of vue.js, element UI, HTML, CSS, JavaScript, AJAX, jQuery and other mainstream front-end technologies."
+		}]
+	},
+	"portfolio": {
+		"navTitle": "Portfolio",
+		"sectionTitle": "Portfolio",
+		"categories": [{
+			"name": "backend",
+			"title": "Back-end",
+			"desc": "Back-end"
+		}, {
+			"name": "frontend",
+			"title": "Front-end",
+			"desc": "Front-end"
+		}],
+		"portfolios": [{
+			"img": "assets/images/portfolio/huihua.png",
+			"title": "Huihua customer relationship management system",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "In order to better explore the value of old customers, and develop more new customers.",
+			"url": "https://github.com/zswyl/CRM"
+		}, {
+			"img": "assets/images/portfolio/blog1.png",
+			"title": "Personal blog system[Open Source]",
+			"category": "backend",
+			"technique": "Java",
+			"desc": "Personal blog system based on springboot and mybatis.",
+			"url": "https://github.com/zswyl/mybatis-blog"
+		}, {
+			"img": "assets/images/portfolio/blog.png",
+			"title": "Personal blog foreground system",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "Personal blog system based on Vue and semantic UI.",
+			"url": "https://www.zhusw.top/"
+		},
+		{
+			"img": "assets/images/portfolio/resume.png",
+			"title": "resume [Open Source]",
+			"category": "frontend",
+			"technique": "Vue.js",
+			"desc": "This project is completely open source and can be adapted into your own resume according to this project.",
+			"url": "https://github.com/zswyl/resume"
+		}]
+	},
+	"schoolReport": {
+		"navTitle": "schoolReport",
+		"sectionTitle": "show schoolReport",
+		"schoolReports": [{
+			"img": "assets/images/schoolReport/2018-2019(1).png",
+			"pdf": "assets/images/schoolReport/2018-2019(1).pdf",
+			"title": "2018-2019 First semester results"
+		},{
+			"img": "assets/images/schoolReport/2018-2019(1).png",
+			"pdf": "assets/images/schoolReport/2018-2019(2).pdf",
+			"title": "2018-2019 Results of the second semester"
+		},{
+			"pdf": "assets/images/schoolReport/2019-2020(1).pdf",
+			"img": "assets/images/schoolReport/2019-2020(1).png",
+			"title": "2019-2020 First semester results"
+		},{
+			"pdf": "assets/images/schoolReport/2019-2020(2).pdf",
+			"img": "assets/images/schoolReport/2019-2020(2).png",
+			"title": "2019-2020 Results of the second semester"
+		},{
+			"pdf": "assets/images/schoolReport/2020-2021(1).pdf",
+			"img": "assets/images/schoolReport/2020-2021(1).png",
+			"title": "2020-2021 First semester results"
+		}]
+	},"certificate": {
+		"navTitle": "Personal certificate",
+		"sectionTitle": "Certificate presentation",
+		"certificates": [{
+			"img": "assets/images/certificate/初级软考证书.jpg",
+			"title": "In May 2019, computer technology and software professional technical qualification won the title of programmer."
+		},{
+			"img": "assets/images/certificate/软件设计师.jpg",
+			"title": "In November 2020, computer technology and software professional technical qualification won the title of software designer."
+		},{
+			"img": "assets/images/certificate/计算机与系统程序设计大赛.jpg",
+			"title": "Liaoning computer system and program design competition in 2020"
+		},{
+			"img": "assets/images/certificate/AI.jpg",
+			"title": "The first Liaoning Province 'China soft International - Excellence Cup' Ai challenge in 2020."
+		},{
+			"img": "assets/images/certificate/英语四级.jpg",
+			"title": "September 2020 CET-4"
+		},{
+			"img": "assets/images/certificate/创新创业.jpg",
+			"title": "2020 Internet plus innovation and Entrepreneurship Competition"
+		},{
+			"img": "assets/images/certificate/东软实训.jpg",
+			"title": "Obtained Neusoft training certificate from November 15, 2020 to December 6, 2020"
+		},{
+			"img": "assets/images/certificate/中软实训.jpg",
+			"title": "From January 14, 2021 to Jan. 10, 2021, obtained the training certificate of China soft"
+		},{
+			"img": "assets/images/certificate/先进志愿者.jpg",
+			"title": "Fushun training class of 'carrying forward Lei Feng spirit' for leading cadres of National Model Software Institute in 2020."
+		}]
+	},
+	"contact": {
+		"navTitle": "Contact",
+		"sectionTitle": "Get in Touch",
+		"notice": "I am currently in the period of looking for a job, if you want to contact me",
+		"message": "Drop me a line at",
+		"call": " or call me at",
+		"thanks": "，thanks for visit.",
+		"provideServices": "I can help with the following：",
+		"services": [{
+			"name": "As a java development engineer, the company's system architecture and R & D."
+		}, {
+			"name": "As a system architect, presided over the company's system architecture and R & D."
+		}]
+	}
+})
